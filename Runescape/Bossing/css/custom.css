@@ -57,7 +57,7 @@ span.twitter-typeahead {
 }
 .input-group span.twitter-typeahead .tt-menu,
 .input-group span.twitter-typeahead .tt-dropdown-menu {
-  top: 40px !important;
+  top: 42px !important;
 }
 .input-group span.twitter-typeahead:not(:first-child):not(:last-child) .form-control {
   border-radius: 0;

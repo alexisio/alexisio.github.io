@@ -8,6 +8,7 @@ $('#search').on('click', function() {
       $(this).dequeue();
     });
     $('#monsters').blur();
+	$("#monsters").val("");
 });
 
 function clickButton(e, buttonid) {
@@ -24,6 +25,7 @@ function clickButton(e, buttonid) {
 $("#monsters").keyup(function(event){
     if(event.keyCode == 13){
         $("#search").click();
+		$("#monsters").val("");
     }
 });
 
