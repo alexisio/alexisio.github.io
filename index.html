@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>RuneScape: Boss / Slayer Inventory Search</title>
+
+    <!-- Bootstrap -->
+    <link href="css/toolkit.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <link href="css/custom.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn"t work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <a href="#" id="return-to-top">
+      <i class="fa fa-arrow-circle-up"></i>
+    </a>
+    <div class="container">
+      <h3>Boss / Slayer Inventory</h3>
+      <div class="row" id="search-area">
+        <div class="col-xs-12">
+          <div class="input-group">
+            <input id="monsters" class="typeahead monsters form-control" type="text" placeholder="Monster">
+            <span class="input-group-btn">
+              <button id="search" class="btn btn-default"><i class="fa fa-search"></i></button>
+            </span>
+          </div>
+        </div>
+      </div>
+      <div class="img-gallery" data-grid="images">
+        <div style="display: none">
+            <img data-width="616" data-height="371" data-action="zoom" data-search="Abyss: Mage" class="img-responsive" src="img/Abyss-Mage.png" alt="Abyss: Mage" />
+          </div>
+          <div style="display: none">
+            <img data-width="616" data-height="371" data-action="zoom" data-search="Abyss: Melee" class="img-responsive" src="img/Abyss-Melee.png" alt="Abyss: Melee" />
+          </div>
+          <div style="display: none">
+            <img data-width="616" data-height="371" data-action="zoom" data-search="Abyss: Ranged" class="img-responsive" src="img/Abyss-Ranged.png" alt="Abyss: Ranged" />
+          </div>
+          <div style="display: none">
+            <img data-width="616" data-height="371" data-action="zoom" data-search="Abyssal Demons" class="img-responsive" src="img/Abyssal-Demons.png" alt="Abyssal Demons" />
+          </div>
+          <div style="display: none">
+            <img data-width="616" data-height="371" data-action="zoom" data-search="Airuts" class="img-responsive" src="img/Airuts.png" alt="Airuts" />
+          </div>
+          <div style="display: none">
+            <img data-width="616" data-height="371" data-action="zoom" data-search="Araxxor" class="img-responsive" src="img/Araxxor.png" alt="Araxxor" />
+          </div>
+          <div style="display: none">
+            <img data-width="616" data-height="371" data-action="zoom" data-search="Araxxor: Low Enrage" class="img-responsive" src="img/Araxxor-Low-Enrage.png" alt="Araxxor: Low Enrage" />
+          </div>
+          <div style="display: none">
+            <img data-width="616" data-height="371" data-action="zoom" data-search="Automatons" class="img-responsive" src="img/Automatons.png" alt="Automatons" />
+          </div>
+          <div style="display: none">
+            <img data-width="616" data-height="371" data-action="zoom" data-search="Beastmaster: Base" class="img-responsive" src="img/Beastmaster-Base.png" alt="Beastmaster: Base" />
+          </div>
+          <div style="display: none">
+            <img data-width="616" data-height="371" data-action="zoom" data-search="Beastmaster: DPS" class="img-responsive" src="img/Beastmaster-DPS.png" alt="Beastmaster: DPS" />
+          </div>
+          <div style="display: none">
+            <img data-width="616" data-height="371" data-action="zoom" data-search="Beastmaster: Pets" class="img-responsive" src="img/Beastmaster-Pets.png" alt="Beastmaster: Pets" />
+          </div>
+          <div style="display: none">
+            <img data-width="616" data-height="371" data-action="zoom" data-search="Cadarn Elves" class="img-responsive" src="img/Cadarn-Elves.png" alt="Cadarn Elves" />
+          </div>
+          <div style="display: none">
+            <img data-width="616" data-height="371" data-action="zoom" data-search="Celestial Dragons" class="img-responsive" src="img/Celestial-Dragons.png" alt="Celestial Dragons" />
+          </div>
+          <div style="display: none">
+            <img data-width="616" data-height="371" data-action="zoom" data-search="Commander Zilyana" class="img-responsive" src="img/Commander-Zilyana.png" alt="Commander Zilyana" />
+          </div>
+          <div style="display: none">
+            <img data-width="616" data-height="371" data-action="zoom" data-search="Corporal Beast" class="img-responsive" src="img/Corporal-Beast.png" alt="Corporal Beast" />
+          </div>
+          <div style="display: none">
+            <img data-width="616" data-height="371" data-action="zoom" data-search="Crystal Shifters" class="img-responsive" src="img/Crystal-Shifters.png" alt="Crystal Shifters" />
+          </div>
+          <div style="display: none">
+            <img data-width="616" data-height="371" data-action="zoom" data-search="Dagannoth Kings" class="img-responsive" src="img/Dag-Kings.png" alt="Dagannoth Kings" />
+          </div>
+          <div style="display: none">
+            <img data-width="616" data-height="371" data-action="zoom" data-search="Dark Beasts" class="img-responsive" src="img/Dark-Beasts.png" alt="Dark Beasts" />
+          </div>
+          <div style="display: none">
+            <img data-width="616" data-height="371" data-action="zoom" data-search="Fight Kiln" class="img-responsive" src="img/Fight-Kiln.png" alt="Fight Kiln" />
+          </div>
+          <div style="display: none">
+            <img data-width="616" data-height="371" data-action="zoom" data-search="Ganodermic Beasts" class="img-responsive" src="img/Ganodermic-Beasts.png" alt="Ganodermic Beasts" />
+          </div>
+          <div style="display: none">
+            <img data-width="616" data-height="371" data-action="zoom" data-search="Gargoyles" class="img-responsive" src="img/Gargoyles.png" alt="Gargoyles" />
+          </div>
+          <div style="display: none">
+            <img data-width="616" data-height="371" data-action="zoom" data-search="General Graador" class="img-responsive" src="img/General-Graador.png" alt="General Graador" />
+          </div>
+          <div style="display: none">
+            <img data-width="616" data-height="371" data-action="zoom" data-search="Glacors" class="img-responsive" src="img/Glacors.png" alt="Glacors" />
+          </div>
+          <div style="display: none">
+            <img data-width="616" data-height="371" data-action="zoom" data-search="Jadinkos" class="img-responsive" src="img/Jadinkos.png" alt="Jadinkos" />
+          </div>
+          <div style="display: none">
+            <img data-width="616" data-height="371" data-action="zoom" data-search="Kal'gerion Demons" class="img-responsive" src="img/Kalgerion-Demons.png" alt="Kal'gerion Demons" />
+          </div>
+          <div style="display: none">
+            <img data-width="616" data-height="371" data-action="zoom" data-search="Kree'arra" class="img-responsive" src="img/Kreearra.png" alt="Kree'arra" />
+          </div>
+          <div style="display: none">
+            <img data-width="616" data-height="371" data-action="zoom" data-search="Legios" class="img-responsive" src="img/Legios.png" alt="Legios" />
+          </div>
+          <div style="display: none">
+            <img data-width="616" data-height="371" data-action="zoom" data-search="Muspah" class="img-responsive" src="img/Muspah.png" alt="Muspah" />
+          </div>
+          <div style="display: none">
+            <img data-width="616" data-height="371" data-action="zoom" data-search="Nex: Duo" class="img-responsive" src="img/Nex-Duo.png" alt="Nex: Duo" />
+          </div>
+          <div style="display: none">
+            <img data-width="616" data-height="371" data-action="zoom" data-search="Nex: Solo" class="img-responsive" src="img/Nex-Solo.png" alt="Nex: Solo" />
+          </div>
+          <div style="display: none">
+            <img data-width="616" data-height="371" data-action="zoom" data-search="Nihils" class="img-responsive" src="img/Nihils.png" alt="Nihils" />
+          </div>
+          <div style="display: none">
+            <img data-width="616" data-height="371" data-action="zoom" data-search="QBD" class="img-responsive" src="img/QBD.png" alt="QBD" />
+          </div>
+          <div style="display: none">
+            <img data-width="616" data-height="371" data-action="zoom" data-search="QBD: Off Task" class="img-responsive" src="img/QBD-Off-Task.png" alt="QBD: Off Task" />
+          </div>
+          <div style="display: none">
+            <img data-width="616" data-height="371" data-action="zoom" data-search="Rise of the Six: Mage" class="img-responsive" src="img/Rise-of-the-Six-Mage.png" alt="Rise of the Six: Mage" />
+          </div>
+          <div style="display: none">
+            <img data-width="616" data-height="371" data-action="zoom" data-search="Rise of the Six: Ranged" class="img-responsive" src="img/Rise-of-the-Six-Ranged.png" alt="Rise of the Six: Ranged" />
+          </div>
+          <div style="display: none">
+            <img data-width="616" data-height="371" data-action="zoom" data-search="Rune Dragons" class="img-responsive" src="img/Rune-Dragons.png" alt="Rune Dragons" />
+          </div>
+          <div style="display: none">
+            <img data-width="616" data-height="371" data-action="zoom" data-search="Saradomin Camp" class="img-responsive" src="img/Saradomin-Camp.png" alt="Saradomin Camp" />
+          </div>
+          <div style="display: none">
+            <img data-width="616" data-height="371" data-action="zoom" data-search="Vorago: Base" class="img-responsive" src="img/Vorago-Base.png" alt="Vorago: Base" />
+          </div>
+          <div style="display: none">
+            <img data-width="616" data-height="371" data-action="zoom" data-search="Vorago: Bomb" class="img-responsive" src="img/Vorago-Bomb.png" alt="Vorago: Bomb" />
+          </div>
+          <div style="display: none">
+            <img data-width="616" data-height="371" data-action="zoom" data-search="Vorago: DPS" class="img-responsive" src="img/Vorago-DPS.png" alt="Vorago: DPS" />
+          </div>
+          <div style="display: none">
+            <img data-width="616" data-height="371" data-action="zoom" data-search="Waterfiends" class="img-responsive" src="img/Waterfiends.png" alt="Waterfiends" />
+          </div>
+      </div>
+      <footer>
+        <div class="text-center">
+          <small>Images by <a href="https://www.reddit.com/user/VengSteam">VengSteam</a></small>
+        </div>
+      </footer>
+    </div>
+    <!-- jQuery (necessary for Bootstrap"s JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/toolkit.min.js"></script>
+    <script src="js/typeahead.bundle.js"></script>
+    <script src="js/searchable.js"></script>
+    <script src="js/custom.js"></script>
+  </body>
+</html>

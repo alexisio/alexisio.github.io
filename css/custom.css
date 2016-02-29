@@ -1,0 +1,174 @@
+span.twitter-typeahead .tt-menu,
+span.twitter-typeahead .tt-dropdown-menu {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  z-index: 1000;
+  display: none;
+  float: left;
+  min-width: 100%;
+  padding: 5px 0;
+  margin: 2px 0 0;
+  list-style: none;
+  font-size: 14px;
+  text-align: left;
+  background-color: #ffffff;
+  border: 1px solid #cccccc;
+  border: 1px solid rgba(0, 0, 0, 0.15);
+  -webkit-box-shadow: 0 6px 12px rgba(0, 0, 0, 0.175);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.175);
+  background-clip: padding-box;
+}
+span.twitter-typeahead .tt-suggestion {
+  display: block;
+  padding: 3px 20px;
+  clear: both;
+  font-weight: normal;
+  line-height: 1.42857143;
+  color: #333333;
+  white-space: nowrap;
+}
+span.twitter-typeahead .tt-suggestion.tt-cursor,
+span.twitter-typeahead .tt-suggestion:hover,
+span.twitter-typeahead .tt-suggestion:focus {
+  color: #ffffff;
+  text-decoration: none;
+  outline: 0;
+  background-color: #2c3d49;
+}
+.input-group.input-group-lg span.twitter-typeahead .form-control {
+  height: 46px;
+  padding: 10px 16px;
+  font-size: 18px;
+  line-height: 1.3333333;
+}
+.input-group.input-group-sm span.twitter-typeahead .form-control {
+  height: 30px;
+  padding: 5px 10px;
+  font-size: 12px;
+  line-height: 1.5;
+}
+span.twitter-typeahead {
+  width: 100%;
+}
+.input-group span.twitter-typeahead {
+  display: block !important;
+  height: 42px;
+}
+.input-group span.twitter-typeahead .tt-menu,
+.input-group span.twitter-typeahead .tt-dropdown-menu {
+  top: 40px !important;
+}
+.input-group span.twitter-typeahead:not(:first-child):not(:last-child) .form-control {
+  border-radius: 0;
+}
+.input-group span.twitter-typeahead:first-child .form-control {
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+}
+.input-group span.twitter-typeahead:last-child .form-control {
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+}
+.input-group.input-group-sm span.twitter-typeahead {
+  height: 30px;
+}
+.input-group.input-group-sm span.twitter-typeahead .tt-menu,
+.input-group.input-group-sm span.twitter-typeahead .tt-dropdown-menu {
+  top: 30px !important;
+}
+.input-group.input-group-lg span.twitter-typeahead {
+  height: 46px;
+}
+.input-group.input-group-lg span.twitter-typeahead .tt-menu,
+.input-group.input-group-lg span.twitter-typeahead .tt-dropdown-menu {
+  top: 46px !important;
+}
+.tt-selectable {
+  cursor: pointer;
+}
+
+.highlight {
+  -webkit-box-shadow: 0px 0px 30px 0px rgba(225,187,52,1);
+  -moz-box-shadow: 0px 0px 30px 0px rgba(225,187,52,1);
+  box-shadow: 0px 0px 30px 0px rgba(225,187,52,1);
+}
+
+.transition {
+  -webkit-transition: box-shadow 3s;
+  -moz-transition: box-shadow 3s;
+  -ms-transition: box-shadow 3st;
+  -o-transition: box-shadow 3s;
+  transition: box-shadow 3s;
+}
+
+.img-gallery > .row, .img-gallery .clearfix {
+  margin-top: 30px;
+}
+.img-gallery > .row:first-child {
+  margin-top: 15px;
+}
+@media (max-width: 767px) {
+  .img-gallery > .row, .img-gallery .clearfix {
+    margin-top: 15px;
+  }
+  .img-gallery > .row:first-child {
+    margin-top: 15px;
+  }
+}
+.twitter-typeahead {
+  width: 100% important;
+}
+#search-area {
+  margin-top: 15px;
+}
+
+#return-to-top {
+    z-index: 9999;
+    position: fixed;
+    bottom: 25px;
+    right: 50px;
+    width: 40px;
+    height: 40px;
+    display: block;
+    text-decoration: none;
+    display: none;
+    -webkit-transition: all 0.3s linear;
+    -moz-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+@media (max-width: 767px) {
+  #return-to-top {
+    right: 15px;
+    bottom: 15px;
+  }
+}
+
+#return-to-top i {
+    margin: 0;
+    position: relative;
+    left: 16px;
+    top: 13px;
+    font-size: 40px;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+#return-to-top:hover i {
+    top: 5px;
+}
+.img-gallery {
+  padding:15px 0;
+}
+footer {
+  padding-top: 15px;
+  padding-bottom: 5px;
+}
