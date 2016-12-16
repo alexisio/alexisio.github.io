@@ -20,22 +20,23 @@ var substringMatcher = function(strs) {
   };
 };
 
-var states = ["Abyssal Demons", "Abyss: Mage", "Abyss: Melee", "Abyss: Ranged", "Airuts",
-  "Araxxor", "Araxxor: Low Enrage", "Automatons", "Beastmaster: Base", "Beastmaster: DPS", "Beastmaster: Pets",
-  "Cadarn Elves", "Celestial Dragons", "Commander Zilyana", "Corporal Beast", "Dagannoth Kings", "Dark Beasts", "Fight Kiln",
-  "Ganodermic Beasts", "Gargoyles", "General Graador", "Glacors", "Jadinkos",
-  "Kal'gerion Demons", "Kree'arra", "Kril Tsutsaroth", "Legios", "Muspah", "Nex: Duo",
-  "Nex: Solo", "Nihils", "Queen Black Dragon", "Queen Black Dragon: Off Task", "Rise of the Six: Mage",
-  "Rise of the Six: Ranged", "Rune Dragons", "Saradomin Camp", "Vorago: Base", "Vorago: Bomb",
-  "Vorago: DPS", "Waterfiends"
+var states = ["Abyss: Mage", "Abyss: Melee", "Abyss: Ranged", "Abyssal Demons: Mage", "Abyssal Demons: Melee", "Abyssal Demons: Ranged", "Abyssal Demons", "Airuts",
+  "Araxxor: Melee", "Araxxor: Ranged", "Automatons", "Beastmaster: Base", "Beastmaster: DPS", "Beastmaster: Pets", "Boss Perks",
+  "Boss Perks Alt", "Cadarn Elves", "Celestial Dragons", "Chaos Elemental", "Commander Zilyana", "Corporal Beast", "Dagannoth Kings",
+  "Dark Beasts", "Edimmu", "Exiled Kalphite King", "Fight Kiln", "Ganodermic Beasts", "Gargoyles", "General Graador",
+  "Glacors", "Gregorovic", "Helwyr", "Jadinkos", "Kal'gerion Demons", "Kalphite King", "KBD", "Kree'arra", "Kril Tsutsaroth",
+  "Legios", "Muspah", "Nex: Duo", "Nex: Solo", "Nihils", "Queen Black Dragon", "Rise of the Six: Mage", "Rise of the Six: Ranged",
+  "Rune Dragons", "Saradomin Camp", "Slayer Perks", "Slayer Perks Alt", "Telos", "Twin Furies", "Vindicta",
+  "Vorago: Base", "Vorago: Bomb", "Vorago: DPS", "Waterfiends", "Yaka: Mage DPS", "Yaka: Ranged DPS"
 ];
 
-$(".typeahead.monsters").typeahead({
-  hint: true,
-  highlight: true,
-  minLength: 1
-},
-{
-  name: "states",
-  source: substringMatcher(states)
-});
+
+  $(".typeahead.monsters").typeahead({
+      hint: true,
+      highlight: true,
+      minLength: 1
+    },
+    {
+      name: "states",
+      source: substringMatcher(states)
+    });

@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="baacad6c-fa20-44b8-908b-7900613643dc" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Runescape/Bossing/img/list/Abyss)-Mage.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Runescape/Bossing/img/list/Abyss)-Melee.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Runescape/Bossing/img/list/Abyss)-Ranged.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Runescape/Bossing/img/list/Abyssal-Demons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Runescape/Bossing/img/list/Airuts.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Runescape/Bossing/img/list/Automatons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Runescape/Bossing/img/list/Beastmaster)-Base.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Runescape/Bossing/img/list/Beastmaster)-DPS.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Runescape/Bossing/img/list/Beastmaster)-Pets.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Runescape/Bossing/img/list/Cadarn-Elves.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Runescape/Bossing/img/list/Celestial-Dragons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Runescape/Bossing/img/list/Commander-Zilyana.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Runescape/Bossing/img/list/Corporal-Beast.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Runescape/Bossing/img/list/Crystal-Shifters.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Runescape/Bossing/img/list/Dag-Kings.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Runescape/Bossing/img/list/Dark-Beasts.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Runescape/Bossing/img/list/Fight-Kiln.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Runescape/Bossing/img/list/Ganodermic-Beasts.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Runescape/Bossing/img/list/Gargoyles.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Runescape/Bossing/img/list/General-Graador.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Runescape/Bossing/img/list/Glacors.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Runescape/Bossing/img/list/Jadinkos.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Runescape/Bossing/img/list/Kalgerion-Demons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Runescape/Bossing/img/list/Kreearra.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Runescape/Bossing/img/list/Kril-Tsutsaroth.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Runescape/Bossing/img/list/Legios.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Runescape/Bossing/img/list/Muspah.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Runescape/Bossing/img/list/Nex)-Duo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Runescape/Bossing/img/list/Nex)-Solo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Runescape/Bossing/img/list/Nihils.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Runescape/Bossing/img/list/QBD.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Runescape/Bossing/img/list/Rise-of-the-Six)-Mage.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Runescape/Bossing/img/list/Rise-of-the-Six)-Ranged.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Runescape/Bossing/img/list/Rune-Dragons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Runescape/Bossing/img/list/Saradomin-Camp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Runescape/Bossing/img/list/Vorago)-Base.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Runescape/Bossing/img/list/Vorago)-Bomb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Runescape/Bossing/img/list/Vorago)-DPS.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Runescape/Bossing/img/list/Waterfiends.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Runescape/Bossing/img/Abyss-Mage.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Runescape/Bossing/img/Abyss-Melee.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Runescape/Bossing/img/Abyss-Ranged.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Runescape/Bossing/img/Abyssal-Demons.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Runescape/Bossing/img/Airuts.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Runescape/Bossing/img/Araxxor-Low-Enrage.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Runescape/Bossing/img/Araxxor.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Runescape/Bossing/img/Automatons.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Runescape/Bossing/img/Beastmaster-Base.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Runescape/Bossing/img/Beastmaster-DPS.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Runescape/Bossing/img/Beastmaster-Pets.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Runescape/Bossing/img/Cadarn-Elves.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Runescape/Bossing/img/Celestial-Dragons.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Runescape/Bossing/img/Commander-Zilyana.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Runescape/Bossing/img/Corporal-Beast.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Runescape/Bossing/img/Crystal-Shifters.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Runescape/Bossing/img/Dag-Kings.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Runescape/Bossing/img/Dark-Beasts.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Runescape/Bossing/img/Fight-Kiln.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Runescape/Bossing/img/Ganodermic-Beasts.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Runescape/Bossing/img/Gargoyles.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Runescape/Bossing/img/General-Graador.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Runescape/Bossing/img/Glacors.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Runescape/Bossing/img/Jadinkos.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Runescape/Bossing/img/Kalgerion-Demons.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Runescape/Bossing/img/Kreearra.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Runescape/Bossing/img/Kril-Tsutsaroth.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Runescape/Bossing/img/Legios.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Runescape/Bossing/img/Muspah.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Runescape/Bossing/img/Nex-Duo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Runescape/Bossing/img/Nex-Solo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Runescape/Bossing/img/Nihils.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Runescape/Bossing/img/QBD-Off-Task.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Runescape/Bossing/img/QBD.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Runescape/Bossing/img/Rise-of-the-Six-Mage.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Runescape/Bossing/img/Rise-of-the-Six-Ranged.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Runescape/Bossing/img/Rune-Dragons.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Runescape/Bossing/img/Saradomin-Camp.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Runescape/Bossing/img/Vorago-Base.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Runescape/Bossing/img/Vorago-Bomb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Runescape/Bossing/img/Vorago-DPS.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Runescape/Bossing/img/Waterfiends.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runescape/Bossing/index.html" afterPath="$PROJECT_DIR$/Runescape/Bossing/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runescape/Bossing/js/searchable.js" afterPath="$PROJECT_DIR$/Runescape/Bossing/js/searchable.js" />
+    </list>
+    <ignored path="alexisio.github.io.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="alexisio.github.io" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Runescape/Bossing/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-18.692308">
+              <caret line="46" column="12" selection-start-line="46" selection-start-column="12" selection-end-line="46" selection-end-column="12" />
+              <folding>
+                <element signature="n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#div#24;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="custom.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Runescape/Bossing/js/custom.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.2849162">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="searchable.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Runescape/Bossing/js/searchable.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="22" column="77" selection-start-line="22" selection-start-column="77" selection-end-line="22" selection-end-column="77" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Runescape/Bossing/index.html" />
+        <option value="$PROJECT_DIR$/Runescape/Bossing/js/searchable.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1456" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="alexisio.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="alexisio.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="alexisio.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Runescape" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bossing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="alexisio.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="alexisio.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Runescape" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bossing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="alexisio.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="alexisio.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Runescape" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bossing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="alexisio.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="alexisio.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Runescape" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bossing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="list" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\alekemp\Desktop\alexisio\alexisio.github.io\Runescape\Bossing\img" />
+      <recent name="C:\Users\alekemp\Desktop\alexisio\alexisio.github.io\Runescape\Bossing\img\list" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="baacad6c-fa20-44b8-908b-7900613643dc" name="Default" comment="" />
+      <created>1481904742253</created>
+      <option name="number" value="Default" />
+      <updated>1481904742253</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1456" height="876" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2496474" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Runescape/Bossing/img/list/Abyss)-Mage.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Runescape/Bossing/img/list/Abyss)-Melee.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Runescape/Bossing/img/list/Abyss)-Ranged.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Runescape/Bossing/img/list/Abyssal-Demons)-Mage.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Runescape/Bossing/img/list/Abyssal-Demons)-Melee.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Runescape/Bossing/img/list/Abyssal-Demons)-Ranged.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Runescape/Bossing/img/list/Abyssal-Demons.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Runescape/Bossing/img/list/Araxxor)-Melee.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Runescape/Bossing/img/list/Araxxor)-Ranged.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Runescape/Bossing/img/list/Airuts.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Runescape/Bossing/img/Title.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Runescape/Bossing/img/Key.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Runescape/Bossing/js/demo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.5167598">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Runescape/Bossing/js/image-grid.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.2081006">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Runescape/Bossing/js/searchable.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="22" column="77" selection-start-line="22" selection-start-column="77" selection-end-line="22" selection-end-column="77" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Runescape/Bossing/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-18.692308">
+          <caret line="46" column="12" selection-start-line="46" selection-start-column="12" selection-end-line="46" selection-end-column="12" />
+          <folding>
+            <element signature="n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#24;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Runescape/Bossing/js/custom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.2849162">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
